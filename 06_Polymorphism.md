@@ -120,7 +120,7 @@ The Complex operator+(Complex const& ob) function is called when the + operator 
 
 
 
-#### Function Overloading
+#### Function Overriding
 
 Function overriding is a type of polymorphism in which we redefine the member function of a class which it inherited from its base class. The function signature remains same but the working of the function is altered to meet the needs of the derived class.
 
